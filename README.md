@@ -1,6 +1,8 @@
-# Interactive Dashboard Project
+# Agricultural Data Dashboard: Analysis, Predictions, and Visualizations
+This project contains an interactive Streamlit dashboard for visualizing and predicting agricultural export trends. The dashboard enables users to analyze agricultural data, predict export values, and forecast future trends, facilitating data-driven decision-making in the agricultural sector.
 
-This project contains an interactive Streamlit dashboard for visualizing and predicting agricultural export trends.
+
+You can access the dashboard directly through Streamlit via the bottom provided below, or clone the repository and run it locally on your machine.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-151z7fxhmko.streamlit.app/)
 ### How to run it on your own machine
