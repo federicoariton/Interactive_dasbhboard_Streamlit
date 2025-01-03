@@ -15,8 +15,8 @@ st.set_page_config(
 )
 
 # Paths to files
-model_path = os.path.join(os.getcwd(), 'linear_model_log.pkl')
-data_path = os.path.join(os.getcwd(), 'agriculture_data_replaced.csv')
+model_path = os.path.join(os.getcwd(),'models', 'linear_model_log.pkl')
+data_path = os.path.join(os.getcwd(), 'datasets', 'agriculture_data_replaced.csv')
 
 # Load the trained linear regression model
 try:
