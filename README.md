@@ -1,6 +1,6 @@
-# 🎈 Blank app template
+# Interactive Dashboard Project
 
-A simple Streamlit app template for you to modify!
+This project contains an interactive Streamlit dashboard for visualizing and predicting agricultural export trends.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
